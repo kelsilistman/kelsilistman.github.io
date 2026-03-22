@@ -1,6 +1,6 @@
-# Kelsi Listman (she/any)
-**PhD student**  
-Department of Mathematics  
+# Kelsi Listman 
+(she/any)
+**PhD student in Mathematics**  
 George Mason University  
 
 <p align="center">
@@ -17,5 +17,5 @@ As a mathematician, I like to think about measure theory, analysis, and geometry
 ---
 
 ## CV
-View my CV here:  
+Check out my CV here:  
 [CV](CV.pdf) 
