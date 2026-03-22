@@ -1,3 +1,8 @@
+<nav style="font-size: 1.1em; margin-bottom: 20px;">
+  <a href="index.html" style="margin-right: 15px;">Home</a>
+  <a href="research.html">Research</a>
+</nav>
+
 # Kelsi Listman
 *(she/any)*  
 **PhD student in Mathematics**  
