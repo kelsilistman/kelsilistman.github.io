@@ -1,4 +1,4 @@
-# Kelsi Listman <span style="font-size:0.8em;">*(she/any)*</span> 
+# Kelsi Listman <span style="font-size:0.8em;">(<em>she/any<em>)</span> 
 **PhD student in Mathematics**  
 George Mason University  
 
