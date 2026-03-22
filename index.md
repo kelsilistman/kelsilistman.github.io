@@ -1,5 +1,4 @@
-<h1 style="display:inline;">Kelsi Listman</h1>
-<span style="font-size:0.6em; font-style:italic; margin-left:6px;"><em>(she/any)</em></span>  
+<h1 style="display:inline;">Kelsi Listman</h1> <span style="font-size:0.6em; font-style:italic; margin-left:6px;"><em>(she/any)</em></span>  
 **PhD student in Mathematics**  
 George Mason University  
 
