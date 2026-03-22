@@ -1,5 +1,5 @@
 # Kelsi Listman 
-*(she/any)* 
+*(she/any)*  
 **PhD student in Mathematics**  
 George Mason University  
 
