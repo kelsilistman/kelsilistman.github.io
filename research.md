@@ -17,10 +17,10 @@ Grid cells are a type of neuron; research suggests they are involved in spatial 
 
 ## Talks & Presentations  
 - **Grid cells and their arrangements**, Student Research Talks (StReeTs), GMU, February 2026  
-  Studying the arrangements of grid cells, whose firing fields lie on a hexagonal lattice.
-  <a href="flyers/my-talk-flyer.pdf" target="_blank">View flyer</a>
+  Studying the arrangements of grid cells, whose firing fields lie on a hexagonal lattice.  
+  <a href="gridcells.pdf" target="_blank">View flyer</a>
 - **An integral over continuous paths in S^1**, Student Research Talks (StReeTs), GMU, March 2025  
-  Integration over the space of paths on the circle, using the disintegration theorem and a consequence of the Cameron-Martin theorem.
-  <a href="flyers/my-talk-flyer.pdf" target="_blank">View flyer</a>
+  Integration over the space of paths on the circle, using the disintegration theorem and a consequence of the Cameron-Martin theorem.  
+  <a href="pathspaceintegral.pdf" target="_blank">View flyer</a>
 
 ---
