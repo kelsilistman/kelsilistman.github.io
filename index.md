@@ -18,4 +18,4 @@ As a mathematician, I like to think about measure theory, analysis, and geometry
 
 ## CV
 Check out my CV here:  
-[CV](CV.pdf) 
+<a href="CV.pdf" target="_blank">CV</a>
