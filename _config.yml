@@ -1,4 +1,7 @@
 title: ""
+
+theme: jekyll-theme-minimal
+
 nav:
   - Home: index.md
   - Research: research.md
