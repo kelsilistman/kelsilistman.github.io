@@ -8,6 +8,7 @@
 ## Interests
 My research interests include:
 - measure theory and probability theory
+- analysis (including geometric analysis)
 - mathematics in neuroscience
 
 ---
