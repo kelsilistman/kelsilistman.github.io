@@ -34,7 +34,7 @@ Grid cells are a type of neuron; research suggests they are involved in spatial 
   <a href="pathspaceintegral.pdf" target="_blank">View flyer</a>  
   - Research advisor: Dr. Yiannis Loizides (GMU)
   <p align="center">
-    <img src="streets2=1.jpg" width="300">
+    <img src="streets1.jpg" width="300">
   </p>
 
 ---
