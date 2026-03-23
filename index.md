@@ -7,7 +7,7 @@
 *(she/any)*  
 **PhD student in Mathematics**  
 George Mason University  
-Advised by Dr. Yiannis Loizides (GMU)
+Advised by Dr. Yiannis Loizides
 
 <p align="center">
   <img src="240124008.jpg" width="400">
