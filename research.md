@@ -14,7 +14,7 @@ My research interests include:
 ---
 
 ## Current Projects
-### Grid Cells and their arrangements
+### Grid cells and their arrangements
 Grid cells are a type of neuron; research suggests they are involved in spatial trajectory encoding. A possible set of axioms for coding trajectory imply that the firing fields of grid cells form a hexagonal lattice. This aim of this project is to classify all possible arrangements of grid cells in these lattices.
 - Research advisor: Dr. Rebecca R.G. (GMU)  
 - Collaborators: Dr. Holger Dannenger (GMU), Dr. Giorgio Ascoli (GMU)
