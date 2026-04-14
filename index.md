@@ -18,7 +18,7 @@ Email: klistman@gmu.edu
 ---
 
 ## About Me
-As a mathematician, I like to think about measure theory, analysis, and geometry. I enjoy mathematical applications in science, especially neuroscience. I have an undergraduate degree in psychology; I'm especially interested in behavioral psychology, developmental psychology, and psychopharmacology.
+As a mathematician, I like to think about measure theory, analysis, and geometry. I enjoy mathematical applications in science, especially neuroscience. In addition to a mathematical background, I have an undergraduate degree in psychology; I'm especially interested in behavioral psychology, developmental psychology, and psychopharmacology.
 
 ---
 
