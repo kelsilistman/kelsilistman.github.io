@@ -31,7 +31,7 @@ Grid cells are a type of neuron; research suggests they are involved in spatial 
 - **An integral over continuous paths in S^1**, Student Research Talks (StReeTs), GMU, March 2025  
   <a href="pathspaceintegral.pdf" target="_blank">View flyer</a>  
   - Based on work with Dr. Yiannis Loizides (GMU)
-  -  <a href="Summer_Research_Summary.pdf" target="_blank">View research summary</a>
+  -  <a href="Summer_Research_Summary.pdf" target="_blank">Research summary</a>
   <p align="center">
     <img src="streets1.jpg" width="300">
   </p>
