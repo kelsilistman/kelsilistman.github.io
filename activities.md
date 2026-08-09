@@ -24,3 +24,9 @@
 <p align="center">
   <img src="20260807_103049.jpg" width="750">
 </p>
+
+---
+
+## Mentions in the media
+- Graduate and professional student week: <a href="https://www.instagram.com/p/DWZeeWQCvgB/" target="_blank">shoutout by GMU's College of Science</a>
+  (March 2026)
