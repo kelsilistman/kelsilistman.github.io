@@ -22,5 +22,5 @@
 ## Summer schools and workshops
 - Poisson geometry summer school (August 2026)
 <p align="center">
-  <img src="20260807_103049.jpg" width="600">
+  <img src="20260807_103049.jpg" width="1000">
 </p>
