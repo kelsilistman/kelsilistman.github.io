@@ -16,9 +16,9 @@ I run a small recycling program for used pens, pencils, markers, and other schoo
 ---
 
 ## Blood donation
-My family and I are frequent blood donors; my brother and I had a birthday blood drive this year (May 2026), in which we successfully collected 24 units of whole blood and 2 double red cells. Even our local fire department showed up to support! Here's the flyer.
+My family and I are frequent blood donors; my brother and I had a birthday blood drive this year (May 2026), in which we successfully collected 24 units of whole blood and 2 double red cells. Even our local fire department showed up to support! <a href="bdayblooddrive (2).pdf" target="_blank">Here's the flyer</a>.
 <p align="center">
-  <img src="IMG_5521 (2).jpg" width="250" style="margin-right: 20px;">
+  <img src="IMG_5521 (2).jpg" width="300" style="margin-right: 20px;">
   <img src="IMG_0587 (3).jpg" width="400">
 </p>
 
