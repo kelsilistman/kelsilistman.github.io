@@ -5,18 +5,24 @@
   <a href="extras.html">Extras</a>
 </nav>
 
-# Other stuff I do
+# Other (non-math) stuff I do
 
 ## Writing instrument recycling program
 I run a small recycling program for used pens, pencils, markers, and other school supplies at GMU. Inspired by the abundance of dry erase markers I have seen thrown away in the academic community, I set up collection boxes within our department and ensure these items are recycled in an earth-friendly way.
 <p align="center">
-    <img src="TBD.jpg" width="300">
+    <img src="IMG_8209.jpg" width="300">
   </p>
 
 ---
 
-## Blood Donation
-I am a frequent blood donor and enjoy organizing donation days with friends and community members. I participate in drives whenever possible and encourage others to donate as well.
+## Blood donation
+My family and I are frequent blood donors; my brother and I had a birthday blood drive this year (May 2026), in which we successfully collected 24 units of whole blood and 2 double red cells. Even our local fire department showed up to support! Here's the flyer.
+<p align="center">
+    <img src="IMG_5521 (2).jpg" width="300">
+  </p>
+<p align="center">
+    <img src="IMG_0587 (3).jpg" width="300">
+  </p>
 
 ---
 
