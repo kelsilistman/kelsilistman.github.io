@@ -7,7 +7,7 @@
 # Professional Activities
 
 ## Organizations and seminars
-- I co-run a student-led seminar at GMU for graduate students to present their research to an audience of (primarily) other graduate students. Check out STudent REsEarch TalkS (StReeTs) <a href="https://streets-gmu.wikidot.com/" target="_blank">here</a>.
+I co-run a student-led seminar at GMU for graduate students to present their research to an audience of (primarily) other graduate students. Check out STudent REsEarch TalkS (StReeTs) <a href="https://streets-gmu.wikidot.com/" target="_blank">here</a>.
 
 ## Outreach
 - TJ Technstravaganza (May 2026)
