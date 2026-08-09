@@ -8,7 +8,7 @@
 # Other (non-math) stuff I do
 
 ## Writing instrument recycling program
-I run a small recycling program for used pens, pencils, markers, and other school supplies at GMU. Inspired by the abundance of dry erase markers I have seen thrown away in the academic community, I set up collection boxes within our department and ensure these items are recycled in an earth-friendly way.
+I run a small recycling program for used pens, pencils, markers, and other school supplies at GMU. Inspired by the abundance of dry erase markers I have seen thrown away in the academic community, I set up collection boxes within our department and ensure these items are recycled in an earth-friendly way. Contact me to ask questions or participate in the program!
 <p align="center">
   <img src="IMG_8209.jpg" width="400">
 </p>
