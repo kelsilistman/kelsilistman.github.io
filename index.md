@@ -12,7 +12,7 @@ George Mason University
 Advised by Dr. Yiannis Loizides
 
 <p align="center">
-  <img src="240124008.jpg" width="400">
+  <img src="20250908Mason371.jpg" width="400">
 </p>
 
 Email: klistman@gmu.edu  
