@@ -29,4 +29,4 @@ My family and I are frequent blood donors. Donating blood is so meaningful to us
 ## Mentions in the media
 - Graduate and professional student week: <a href="https://www.instagram.com/p/DWZeeWQCvgB/" target="_blank">shoutout by GMU's College of Science</a>
   (March 2026)
-- Sustainability month: <a href="https://www.instagram.com/p/DWZeeWQCvgB/" target="_blank">shoutout by Science at Mason</a> in reference to my writing instrument recycling program (October 2026)
+- Sustainability month: <a href="https://www.instagram.com/reel/Dd9rGfONWEO/?utm_source=ig_web_button_share_sheet&stkn=MzRlODBiNWFlZA%3D%3D" target="_blank">shoutout by Science at Mason</a> in reference to my writing instrument recycling program (October 2026)
