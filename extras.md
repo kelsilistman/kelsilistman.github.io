@@ -26,7 +26,10 @@ My family and I are frequent blood donors. Donating blood is so meaningful to us
 
 ---
 
-## Mentions in the media
+## Mentions (and sitings) in the media
+- Sustainability month: <a href="https://www.instagram.com/reel/Dd9rGfONWEO/?utm_source=ig_web_button_share_sheet&stkn=MzRlODBiNWFlZA%3D%3D" target="_blank">shoutout by Science at Mason</a> in reference to my writing instrument recycling program (October 2026)
+- Girl scout camp: a camp at which I volunteer was <a href="https://www.wusa9.com/article/features/volunteer-girl-scout-camp-oakton-virginia/65-fb4b7aea-ca6e-41ae-957b-4b5409e716f5" target="_blank">featured in the news</a>! You can find me in the crowd at 0:45 and 1:56 (hint: I'm wearing a blue shirt and a pale green hat) (July 2026)
 - Graduate and professional student week: <a href="https://www.instagram.com/p/DWZeeWQCvgB/" target="_blank">shoutout by GMU's College of Science</a>
   (March 2026)
-- Sustainability month: <a href="https://www.instagram.com/reel/Dd9rGfONWEO/?utm_source=ig_web_button_share_sheet&stkn=MzRlODBiNWFlZA%3D%3D" target="_blank">shoutout by Science at Mason</a> in reference to my writing instrument recycling program (October 2026)
+- Inova Blood Donor Services: <a href="https://www.facebook.com/share/p/1UfdNQPgxk/" target="_blank">post</a> announcing the reopening of a blood donation center (August 2024)
+- International day of women and girls in science: <a href="https://www.facebook.com/share/p/1FUoDoXfwc/" target="_blank">feature by GMU's College of Science</a> (February 2024)
