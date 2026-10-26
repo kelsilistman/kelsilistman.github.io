@@ -11,6 +11,7 @@
 I co-run a student-led seminar at GMU for graduate students to present their research to an audience of (primarily) other graduate students. Check out STudent REsEarch TalkS (StReeTs) <a href="https://streets-gmu.wikidot.com/" target="_blank">here</a>.
 
 ## Outreach
+- Fort Belvoir Primary school: 'Irrational thinking' (October 2026)
 - TJ Technstravaganza (May 2026)
 - James Madison high school: 'Your teachers are lying to you' (April 2026)
 
@@ -28,3 +29,6 @@ I co-run a student-led seminar at GMU for graduate students to present their res
 <p align="center">
   <img src="20260807_103049.jpg" width="750">
 </p>
+
+## Certifications and acheivements
+- PATMATH (Program for Advanced Teaching of Mathematics) completion (Spring 2026)
